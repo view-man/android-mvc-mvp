@@ -12,7 +12,6 @@ import com.example.view.myapplication.UrlUtils;
 import com.example.view.myapplication.bean.ImBean;
 import com.example.view.myapplication.bean.MainBean;
 import com.example.view.myapplication.mvp.presenter.MvpPresenter;
-import com.example.view.myapplication.mvp.view.ImUI;
 
 /**
  * Created by view on 17-7-31.
